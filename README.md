@@ -4,5 +4,5 @@ The "Interactive Tumor Growth Simulator" is a cutting-edge visualization tool th
 
 
 Link for the website 
-👇🏻
+
 https://tumor-growth-simulator-twwg8in.gamma.site/
